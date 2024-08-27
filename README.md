@@ -12,8 +12,3 @@ The current version of Creditguard is a work in progress. While the model is cap
 
 - **Acceptance Prediction:** The model can predict whether a loan application is likely to be accepted.
 - **Transfer Learning:** In progress - Utilizing transfer learning to enhance the model's ability to predict loan rejections.
-
-
-## Dataset
-
-the lending club loan dataset
