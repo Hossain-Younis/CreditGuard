@@ -16,5 +16,4 @@ The current version of Creditguard is a work in progress. While the model is cap
 
 ## Dataset
 
-
-The accpetence part is trained on the lending club loan dataset
+the lending club loan dataset
